@@ -1,0 +1,11 @@
+body {
+	letter-spacing: 2px;
+	line-height: 1.6;
+	font-size: 18px;
+}
+
+div.lyrics_main {
+	column-count: 2;
+	column-gap: 20px;
+	margin: auto;
+}
